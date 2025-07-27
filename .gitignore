@@ -13,3 +13,15 @@
 .externalNativeBuild
 .cxx
 local.properties
+/app/src/main/res/drawable-hdpi
+/app/src/main/res/drawable-ldpi
+/app/src/main/res/drawable-mdpi
+/app/src/main/res/drawable-xhdpi
+/app/src/main/res/drawable-xxhdpi
+/app/src/main/res/drawable-xxxhdpi
+/app/src/main/res/mipmap-anydpi-v26
+/app/src/main/res/mipmap-hdpi
+/app/src/main/res/mipmap-mdpi
+/app/src/main/res/mipmap-xhdpi
+/app/src/main/res/mipmap-xxhdpi
+/app/src/main/res/mipmap-xxxhdpi
